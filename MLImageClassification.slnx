@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="MLImageClassification/MLImageClassification.csproj" />
+  <Project Path="MLImageClassification_ConsoleApp/MLImageClassification_ConsoleApp.csproj" />
+  <Project Path="MLImageClassification_WebApi/MLImageClassification_WebApi.csproj" />
 </Solution>
