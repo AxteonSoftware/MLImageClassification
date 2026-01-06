@@ -2,11 +2,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.ML;
-using Microsoft.OpenApi.Models;
 using Microsoft.ML.Data;
 using System.Drawing;
 using System.IO;
 using System.Threading.Tasks;
+using Microsoft.OpenApi;
 
 // Configure app
 var builder = WebApplication.CreateBuilder(args);
